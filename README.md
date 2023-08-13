@@ -1,5 +1,5 @@
 # SkillLancer
-SkillLancer is a versatile freelancing web app built using the MERN (MongoDB, Express.js, React, Node.js) stack. It provides a platform for sellers and buyers to connect, collaborate, and exchange services.
+SkillLancer is a versatile freelancing web app built using the **MERN (MongoDB, Express.js, React, Node.js) stack**. It provides a platform for sellers and buyers to connect, collaborate, and exchange services.
 ## Features
 
 - **Distinct User Accounts**: SkillLancer offers separate accounts for sellers and buyers, each with tailored features and functionalities.
