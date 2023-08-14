@@ -21,6 +21,10 @@ SkillLancer is a versatile freelancing web app built using the **MERN (MongoDB, 
 
 ## Dekstop Preview : 
 
+https://github.com/Sarthak32/SkillLancer/assets/92269596/6861ddc7-92c6-4f5f-9888-aeae5e5ea5a0
+
+
+
 
 ## Getting Started
 ```shell
